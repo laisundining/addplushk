@@ -19,7 +19,6 @@ body{
     width: 96px;
     height: 96px;
     border-radius: 50%;
-    border: 5px solid var(--accentColor);
 }
 
 #userName{
